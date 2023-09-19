@@ -45,7 +45,7 @@ public class CarrinhoDeCompras {
         CarrinhoDeCompras carrinhoDeCompras = new CarrinhoDeCompras();
 
         carrinhoDeCompras.adicionarItem("tablet", 500.0, 2);
-        carrinhoDeCompras.adicionarItem("kidle", 150.0, 5);
+        carrinhoDeCompras.adicionarItem("kindle", 150.0, 5);
         carrinhoDeCompras.adicionarItem("celular", 1000d, 5);
         carrinhoDeCompras.adicionarItem("fone", 50d, 2);
 
