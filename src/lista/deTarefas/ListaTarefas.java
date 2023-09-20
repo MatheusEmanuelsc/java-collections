@@ -34,7 +34,5 @@ public class ListaTarefas {
 
 
 
-    public static void main(String[] args) {
 
-    }
 }
